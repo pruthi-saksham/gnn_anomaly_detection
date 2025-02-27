@@ -56,6 +56,5 @@ Potential anomaly detected!
 - Pandas
 - Matplotlib
 
-## License
-This project is licensed under the MIT License.
+
 
